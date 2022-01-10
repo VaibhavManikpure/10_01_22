@@ -8,4 +8,7 @@ public class Test {
 	public void m1(){
 		System.out.println("helloDear");
 	}
+	public void m2(){
+		System.out.println("helloDear");
+	}
 }
