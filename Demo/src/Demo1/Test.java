@@ -14,4 +14,7 @@ public class Test {
 	public void m3(){
 		System.out.println("helloDear");
 	}
+	public void m4(){
+		System.out.println("helloDear");
+	}
 }
